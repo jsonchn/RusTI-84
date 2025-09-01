@@ -2,10 +2,18 @@
   "name": "@rusti-84/interface",
   "version": "0.5.3",
   "type": "module",
-  "homepage": "https://jsonchn.github.io/RusTI-84/",
+  "main": "src/main.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "module": "dist/entry-interface.js",
+  "typings": "./dist/interface.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "tsc && vite build",
     "test:circular": "madge --extensions ts,tsx ./src/ -c",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
   },
@@ -17,6 +25,17 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-render-if-visible": "^2.1.1"
+  },
+  "bundleDependencies": [
+    "@emotion/react",
+    "@emotion/styled",
+    "@mui/icons-material",
+    "@mui/material",
+    "react-render-if-visible"
+  ],
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@rusti-84/context": "^0.1.1",
@@ -31,6 +50,7 @@
     "eslint-plugin-react-refresh": "^0.4.5",
     "madge": "6.0.0",
     "typescript": "^5.2.2",
-    "vite": "^5.1.0"
+    "vite": "^5.1.0",
+    "vite-plugin-dts": "^3.7.3"
   }
 }
