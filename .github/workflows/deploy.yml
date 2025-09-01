@@ -23,8 +23,8 @@ jobs:
       - name: Install Dependencies
         run: yarn install
       
-      - name: Build
-        run: yarn workspace @rusti-84/interface build
+      - name: Build All Packages
+        run: yarn build
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
