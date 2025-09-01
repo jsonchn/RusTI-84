@@ -1,4 +1,4 @@
-import { ChecklistMaterialType } from "@valculator/context/types";
+import { ChecklistMaterialType } from "@rusti-84/context/types";
 
 export const getPercentageComplete = (
   collected: Array<ChecklistMaterialType>,

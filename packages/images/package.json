@@ -1,5 +1,5 @@
 {
-  "name": "@valculator/images",
+  "name": "@rusti-84/images",
   "private": true,
   "version": "0.3.1",
   "type": "module",
@@ -10,12 +10,12 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
   },
   "dependencies": {
-    "@valculator/data": "^0.1.1",
+    "@rusti-84/data": "^0.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "bundleDependencies": [
-    "@valculator/data"
+    "@rusti-84/data"
   ],
   "peerDependencies": {
     "react": "^18.2.0",

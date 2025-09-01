@@ -1,4 +1,4 @@
-import { IItem } from "@valculator/data/types";
+import { IItem } from "@rusti-84/data/types";
 
 export interface SearchFiltersConfig {
   name: string[];

@@ -7,7 +7,7 @@ import { PropsWithChildren } from "react";
 import {
   useValculatorLayoutContext,
   TabsType,
-} from "@valculator/context/layout";
+} from "@rusti-84/context/layout";
 
 export const SectionContainer = ({
   children,

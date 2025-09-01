@@ -22,7 +22,7 @@ jobs:
       with:
         node-version: 18.x
         registry-url: 'https://registry.npmjs.org'
-        scope: "@valculator"
+        scope: "@rusti-84"
         always-auth: true
 
     - name: Version

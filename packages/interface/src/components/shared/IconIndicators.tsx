@@ -1,8 +1,8 @@
 import { SvgIcon, SvgIconProps, Tooltip } from "@mui/material";
 
-import { palette } from "@valculator/theme";
+import { palette } from "@rusti-84/theme";
 
-import { maxItemLevels } from "@valculator/data";
+import { maxItemLevels } from "@rusti-84/data";
 
 const iconBaseColor = palette.info.light;
 const levelHighlightColor = palette.secondary.light;

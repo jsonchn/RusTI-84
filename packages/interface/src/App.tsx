@@ -4,8 +4,8 @@ import { Theme, ThemeProvider } from "@mui/material/styles";
 import { TabsMenu } from "./components/layout/TabsMenu";
 import { ValculatorSections } from "./components/layout/Sections";
 
-import { ValculatorContextProvider } from "@valculator/context";
-import { theme as defaultTheme } from "@valculator/theme";
+import { ValculatorContextProvider } from "@rusti-84/context";
+import { theme as defaultTheme } from "@rusti-84/theme";
 
 export const Valculator = ({
   theme,

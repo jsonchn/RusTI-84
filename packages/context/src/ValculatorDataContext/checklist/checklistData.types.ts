@@ -1,4 +1,4 @@
-import { MaterialsType, GroupType } from "@valculator/data/types";
+import { MaterialsType, GroupType } from "@rusti-84/data/types";
 
 import { SelectedItem } from "../items/itemData.types";
 

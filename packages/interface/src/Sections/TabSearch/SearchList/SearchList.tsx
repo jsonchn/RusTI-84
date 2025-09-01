@@ -1,7 +1,7 @@
 import { Grid } from "@mui/material";
 import RenderIfVisible from "react-render-if-visible";
 
-import { useValculatorLayoutContext } from "@valculator/context/layout";
+import { useValculatorLayoutContext } from "@rusti-84/context/layout";
 
 import { useTabSearchContext } from "../TabSearch.context";
 import { GridItem } from "./SearchList.components/GridItem";

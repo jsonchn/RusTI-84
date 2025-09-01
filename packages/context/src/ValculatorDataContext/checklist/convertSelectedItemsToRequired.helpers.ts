@@ -1,6 +1,6 @@
-import { allItemsData, getItemId } from "@valculator/data";
+import { allItemsData, getItemId } from "@rusti-84/data";
 
-import { MaterialsType, StationType } from "@valculator/data/types";
+import { MaterialsType, StationType } from "@rusti-84/data/types";
 
 import { SelectedItem } from "../items/itemData.types";
 import {

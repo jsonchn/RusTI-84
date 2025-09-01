@@ -1,4 +1,4 @@
-import { SelectedItem } from "@valculator/context/types";
+import { SelectedItem } from "@rusti-84/context/types";
 
 export type TabSelectionGroup = {
   [key in string]: Array<SelectedItem>;

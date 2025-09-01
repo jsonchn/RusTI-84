@@ -7,7 +7,7 @@ import {
   Typography,
 } from "@mui/material";
 
-import { IItem, IStats } from "@valculator/data/types";
+import { IItem, IStats } from "@rusti-84/data/types";
 
 import { ItemCard } from "./SearchList.components";
 import { QuantityButton } from "../../../../components/shared/QuantityButton";
@@ -16,7 +16,7 @@ import {
   WeightIconIndicator,
 } from "../../../../components/shared/IconIndicators";
 import { getItemName } from "../../../../helpers/getItemName";
-import { ItemImage } from "@valculator/images";
+import { ItemImage } from "@rusti-84/images";
 
 const Stat = ({ name, value }: { name: string; value: string }) => {
   return (

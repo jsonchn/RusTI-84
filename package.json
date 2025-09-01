@@ -1,5 +1,5 @@
 {
-  "name": "valculator",
+  "name": "rusti-84",
   "private": true,
   "version": "0.0.0-development",
   "workspaces": {
@@ -13,7 +13,7 @@
     ]
   },
   "scripts": {
-    "dev": "yarn workspace @valculator/interface dev",
+    "dev": "yarn workspace @rusti-84/interface dev",
     "lint": "lerna run lint",
     "test:circular": "yarn workspaces foreach --all -p run test:circular",
     "build": "lerna run build",
@@ -22,7 +22,7 @@
   "packageManager": "yarn@4.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/charlotte-hues/valculator.git"
+    "url": "https://github.com/your-username/RusTI-84.git"
   },
   "devDependencies": {
     "lerna": "^8.1.2"

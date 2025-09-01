@@ -7,9 +7,9 @@ import {
 } from "react";
 import { useContext } from "react";
 
-import { allItemsData } from "@valculator/data";
+import { allItemsData } from "@rusti-84/data";
 
-import { useValculatorLayoutContext } from "@valculator/context/layout";
+import { useValculatorLayoutContext } from "@rusti-84/context/layout";
 import { getfilteredList } from "./TabSearch.helpers";
 import {
   initialSearchFilters,

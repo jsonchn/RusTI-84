@@ -1,6 +1,6 @@
 import { createContext, PropsWithChildren, useContext, useMemo } from "react";
 
-import { useValculatorDataContext } from "@valculator/context";
+import { useValculatorDataContext } from "@rusti-84/context";
 import {
   filterEmptyGroups,
   selectionGroupsReducer,

@@ -2,7 +2,7 @@ import KeyboardArrowDownOutlinedIcon from "@mui/icons-material/KeyboardArrowDown
 import KeyboardArrowUpOutlinedIcon from "@mui/icons-material/KeyboardArrowUpOutlined";
 import { Button, ButtonGroup, Stack, Typography } from "@mui/material";
 
-import { useValculatorDataContext } from "@valculator/context";
+import { useValculatorDataContext } from "@rusti-84/context";
 
 export const QuantityButton = ({
   id,

@@ -1,4 +1,4 @@
-import { allItemsData } from "@valculator/data";
+import { allItemsData } from "@rusti-84/data";
 import { ItemsDataAction, ItemsDataType, SelectedItem } from "./itemData.types";
 
 const getItemById = (id: string) => {

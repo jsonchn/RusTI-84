@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { allItemsData, maxItemLevels } from "@valculator/data";
+import { allItemsData, maxItemLevels } from "@rusti-84/data";
 import { ItemImage } from "../ItemImage.tsx";
-import { IItem } from "@valculator/data/types";
+import { IItem } from "@rusti-84/data/types";
 import { getMissingItems } from "./helpers/getMissingItems.ts";
 import { getItemImageSrc } from "../helpers/getItemImageSrc.ts";
 

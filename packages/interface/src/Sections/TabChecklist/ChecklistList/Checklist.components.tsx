@@ -2,14 +2,14 @@ import { Box, Checkbox, Collapse, Stack, Typography } from "@mui/material";
 import { styled } from "@mui/material/styles";
 import { useState } from "react";
 
-import { IItem } from "@valculator/data/types";
-import { ItemImage } from "@valculator/images";
+import { IItem } from "@rusti-84/data/types";
+import { ItemImage } from "@rusti-84/images";
 import {
   ChecklistMaterialType,
   ChecklistStationType,
   SelectedItem,
-} from "@valculator/context/types";
-import { useValculatorDataContext } from "@valculator/context";
+} from "@rusti-84/context/types";
+import { useValculatorDataContext } from "@rusti-84/context";
 import { GroupHeader } from "../../../components/shared/GroupHeader";
 import { LevelIconIndicator } from "../../../components/shared/IconIndicators";
 import { ListCard } from "../../../components/shared/ListCard";

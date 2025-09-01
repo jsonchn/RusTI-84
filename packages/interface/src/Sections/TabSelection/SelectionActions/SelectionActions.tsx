@@ -1,6 +1,6 @@
 import { Box, Button, Typography } from "@mui/material";
 
-import { useValculatorDataContext } from "@valculator/context";
+import { useValculatorDataContext } from "@rusti-84/context";
 import { getSelectedCount } from "../../../helpers/getSelectedCount";
 
 export const SelectionActions = () => {

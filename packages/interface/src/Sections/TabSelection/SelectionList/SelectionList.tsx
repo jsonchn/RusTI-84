@@ -1,6 +1,6 @@
 import { Stack } from "@mui/material";
 
-import { GroupType } from "@valculator/data/types";
+import { GroupType } from "@rusti-84/data/types";
 import { EmptyListText } from "../../../components/shared/EmptyListText";
 
 import { useTabSelectionContext } from "../TabSelection.context";

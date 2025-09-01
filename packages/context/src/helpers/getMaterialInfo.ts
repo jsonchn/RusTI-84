@@ -1,4 +1,4 @@
-import { getLegacyId, materialsData } from "@valculator/data";
+import { getLegacyId, materialsData } from "@rusti-84/data";
 import { ChecklistMaterialType } from "../ValculatorDataContext/checklist/checklistData.types";
 
 export const getMaterialInfo: (

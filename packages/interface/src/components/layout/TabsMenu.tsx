@@ -2,7 +2,7 @@ import { Box, Tab, Tabs } from "@mui/material";
 import {
   TabsType,
   useValculatorLayoutContext,
-} from "@valculator/context/layout";
+} from "@rusti-84/context/layout";
 
 export const TabsMenu = () => {
   const { handleTabChange, isFullScreen, activeTab } =

@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { ShareListButton, Valculator } from "../src/main";
 import { ThemeProvider } from "@mui/material";
 
-import { theme as defaultTheme } from "@valculator/theme";
+import { theme as defaultTheme } from "@rusti-84/theme";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(

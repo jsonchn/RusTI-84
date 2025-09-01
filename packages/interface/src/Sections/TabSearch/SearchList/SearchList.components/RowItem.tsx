@@ -1,7 +1,7 @@
 import { Grid, Stack, Typography } from "@mui/material";
 import { memo } from "react";
 
-import { IItem } from "@valculator/data/types";
+import { IItem } from "@rusti-84/data/types";
 
 import { ItemCard } from "./SearchList.components";
 import { QuantityButton } from "../../../../components/shared/QuantityButton";
@@ -9,7 +9,7 @@ import {
   LevelIconIndicator,
   WeightIconIndicator,
 } from "../../../../components/shared/IconIndicators";
-import { ItemImage } from "@valculator/images";
+import { ItemImage } from "@rusti-84/images";
 
 const RowItemBase = ({ item }: { item: IItem }) => {
   return (

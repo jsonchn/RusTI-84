@@ -9,7 +9,7 @@ import {
 } from "@mui/material";
 import { PropsWithChildren, useCallback } from "react";
 
-import { useValculatorLayoutContext } from "@valculator/context/layout";
+import { useValculatorLayoutContext } from "@rusti-84/context/layout";
 
 import { useTabSearchContext } from "../TabSearch.context";
 import { SearchFiltersField } from "../TabSearch.types";

@@ -1,4 +1,4 @@
-import { IItem } from "@valculator/data/types";
+import { IItem } from "@rusti-84/data/types";
 import { capitalize, removeSpaces } from "./stringFunctions";
 
 export const getItemImageSrc = (item: IItem) => {

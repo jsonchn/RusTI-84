@@ -3,7 +3,7 @@ import { Box, Grid } from "@mui/material";
 import { TabChecklist } from "../../Sections/TabChecklist/TabChecklist";
 import { TabSearch } from "../../Sections/TabSearch/TabSearch";
 import { TabSelection } from "../../Sections/TabSelection/TabSelection";
-import { useValculatorLayoutContext } from "@valculator/context/layout";
+import { useValculatorLayoutContext } from "@rusti-84/context/layout";
 import { SectionContainer } from "./SectionContainer";
 
 export const ValculatorSections = () => {

@@ -13,9 +13,9 @@ export default defineConfig({
   ],
   optimizeDeps: {
     include: [
-      "@valculator/context",
-      "@valculator/data",
-      "@valculator/images",
+      "@rusti-84/context",
+      "@rusti-84/data",
+      "@rusti-84/images",
       "@emotion/styled",
       "@mui/material",
     ],

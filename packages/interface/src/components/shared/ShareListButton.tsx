@@ -1,6 +1,6 @@
 import { Button, ButtonProps } from "@mui/material";
 import { Theme, ThemeProvider, styled } from "@mui/material/styles";
-import { theme as defaultTheme } from "@valculator/theme";
+import { theme as defaultTheme } from "@rusti-84/theme";
 
 import { useState } from "react";
 

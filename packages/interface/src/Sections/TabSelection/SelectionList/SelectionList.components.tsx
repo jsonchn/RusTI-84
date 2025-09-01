@@ -2,12 +2,12 @@ import { Box, Collapse, Stack, Typography } from "@mui/material";
 import Rating from "@mui/material/Rating";
 import { useState } from "react";
 
-import { allItemsData, maxItemLevels } from "@valculator/data";
+import { allItemsData, maxItemLevels } from "@rusti-84/data";
 import { ExpandButton } from "../../../components/shared/ExpandButton";
 import { GroupHeader } from "../../../components/shared/GroupHeader";
 
 import { QuantityButton } from "../../../components/shared/QuantityButton";
-import { SelectedItem } from "@valculator/context/types";
+import { SelectedItem } from "@rusti-84/context/types";
 import { getSelectedCount } from "../../../helpers/getSelectedCount";
 import { ListCard } from "../../../components/shared/ListCard";
 

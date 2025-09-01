@@ -1,6 +1,6 @@
-import { allItemsData } from "@valculator/data";
+import { allItemsData } from "@rusti-84/data";
 import { capitalize, removeSpaces } from "../../helpers/stringFunctions";
-import { IItem } from "@valculator/data/types";
+import { IItem } from "@rusti-84/data/types";
 
 function checkIfImageMissing(item: IItem) {
   const isMeadBase = item.set === "mead" && item.type == "base";
