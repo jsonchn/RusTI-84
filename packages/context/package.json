@@ -1,7 +1,7 @@
 {
   "name": "@rusti-84/context",
   "private": true,
-  "version": "0.1.1",
+  "version": "0.2.0",
   "type": "module",
   "exports": {
     ".": {
@@ -20,7 +20,7 @@
     "test:circular": "madge --extensions ts,tsx ./src/ -c"
   },
   "dependencies": {
-    "@rusti-84/data": "^0.1.1",
+    "@rusti-84/data": "^0.2.0",
     "lz-string": "^1.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

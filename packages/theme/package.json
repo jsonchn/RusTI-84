@@ -1,6 +1,6 @@
 {
   "name": "@rusti-84/theme",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "type": "module",
   "main": "src/main.ts",
   "publishConfig": {

@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.4.0 (2025-09-02)
+
+
+### Bug Fixes
+
+* semantic release monorepo ([3565f8b](https://github.com/jsonchn/RusTI-84/commit/3565f8be2fe1277b03608d5668ac3ac16ed16a9b))
+
+
+### Features
+
+* export typography from theme ([#23](https://github.com/jsonchn/RusTI-84/issues/23)) ([7d06482](https://github.com/jsonchn/RusTI-84/commit/7d06482b49bfba53e0aaec7b04000879e56cd64f))
+* publish workflow ([#15](https://github.com/jsonchn/RusTI-84/issues/15)) ([90391fd](https://github.com/jsonchn/RusTI-84/commit/90391fda94150ce5e9d1576f8a93d8313a5fcdd6))
+
+
+
+
+
 # [0.3.0](https://github.com/charlotte-hues/valculator/compare/@valculator/theme@0.2.1...@valculator/theme@0.3.0) (2024-02-29)
 
 

@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2025-09-02)
+
+
+### Features
+
+* data update 2024-04-01 ([#30](https://github.com/jsonchn/RusTI-84/issues/30)) ([e642cc8](https://github.com/jsonchn/RusTI-84/commit/e642cc80fbe89304ec8c8f28aaa5e5f1f430c20a))
+
+
+
+
+
 ## [0.1.1](https://github.com/charlotte-hues/valculator/compare/@valculator/context@0.1.0...@valculator/context@0.1.1) (2024-04-01)
 
 **Note:** Version bump only for package @valculator/context

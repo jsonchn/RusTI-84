@@ -1812,11 +1812,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rusti-84/context@npm:^0.1.1, @rusti-84/context@workspace:packages/context":
+"@rusti-84/context@npm:^0.2.0, @rusti-84/context@workspace:packages/context":
   version: 0.0.0-use.local
   resolution: "@rusti-84/context@workspace:packages/context"
   dependencies:
-    "@rusti-84/data": "npm:^0.1.1"
+    "@rusti-84/data": "npm:^0.2.0"
     "@types/react": "npm:^18.2.55"
     "@types/react-dom": "npm:^18.2.19"
     "@typescript-eslint/eslint-plugin": "npm:^6.21.0"
@@ -1837,7 +1837,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@rusti-84/data@npm:^0.1.1, @rusti-84/data@workspace:packages/data":
+"@rusti-84/data@npm:^0.2.0, @rusti-84/data@workspace:packages/data":
   version: 0.0.0-use.local
   resolution: "@rusti-84/data@workspace:packages/data"
   dependencies:
@@ -1852,7 +1852,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@rusti-84/images@workspace:packages/images"
   dependencies:
-    "@rusti-84/data": "npm:^0.1.1"
+    "@rusti-84/data": "npm:^0.2.0"
     "@types/react": "npm:^18.2.55"
     "@types/react-dom": "npm:^18.2.19"
     "@typescript-eslint/eslint-plugin": "npm:^6.21.0"
@@ -1879,8 +1879,8 @@ __metadata:
     "@emotion/styled": "npm:^11.11.0"
     "@mui/icons-material": "npm:^5.15.4"
     "@mui/material": "npm:^5.15.4"
-    "@rusti-84/context": "npm:^0.1.1"
-    "@rusti-84/theme": "npm:^0.3.0"
+    "@rusti-84/context": "npm:^0.2.0"
+    "@rusti-84/theme": "npm:^0.4.0"
     "@types/react": "npm:^18.2.55"
     "@types/react-dom": "npm:^18.2.19"
     "@typescript-eslint/eslint-plugin": "npm:^6.21.0"
@@ -1898,7 +1898,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@rusti-84/theme@npm:^0.3.0, @rusti-84/theme@workspace:packages/theme":
+"@rusti-84/theme@npm:^0.4.0, @rusti-84/theme@workspace:packages/theme":
   version: 0.0.0-use.local
   resolution: "@rusti-84/theme@workspace:packages/theme"
   dependencies:

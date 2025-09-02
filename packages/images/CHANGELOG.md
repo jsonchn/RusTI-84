@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.4.0 (2025-09-02)
+
+
+### Bug Fixes
+
+* update data -  furniture 2024-04-01 ([#32](https://github.com/jsonchn/RusTI-84/issues/32)) ([8fc608a](https://github.com/jsonchn/RusTI-84/commit/8fc608addcccd97990c938f18d85814e45821b0b))
+
+
+### Features
+
+* data update 2024-04-01 ([#30](https://github.com/jsonchn/RusTI-84/issues/30)) ([e642cc8](https://github.com/jsonchn/RusTI-84/commit/e642cc80fbe89304ec8c8f28aaa5e5f1f430c20a))
+* preview missing images ([#14](https://github.com/jsonchn/RusTI-84/issues/14)) ([44bfa42](https://github.com/jsonchn/RusTI-84/commit/44bfa4260f10ae4e03e0013bef16709e0832dfa2))
+
+
+
+
+
 ## [0.3.1](https://github.com/charlotte-hues/valculator/compare/@valculator/images@0.3.0...@valculator/images@0.3.1) (2024-04-01)
 
 
