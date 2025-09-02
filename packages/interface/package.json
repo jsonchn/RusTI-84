@@ -2,7 +2,6 @@
   "name": "@rusti-84/interface",
   "version": "0.5.3",
   "type": "module",
-  "private": false,
   "homepage": "https://jsonchn.github.io/RusTI-84/",
   "scripts": {
     "dev": "vite",
